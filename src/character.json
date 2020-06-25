@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "name": "Goku",
+        "image": "../img/goku.png"
+    },
+    {
+        "id": 2,
+        "name": "Vegeta",
+        "image": "../img/vegeta.png"
+    },
+    {
+        "id": 3,
+        "name": "Gohan",
+        "image": "../img/gohan.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Android18",
+        "image": "../img/android-18.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Majin Buu",
+        "image": "../img/Buu.png"
+    },
+    {
+        "id": 6,
+        "name": "Cell",
+        "image": "../img/cell.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Frieza",
+        "image": "../img/frieza.png"
+    },
+    {
+        "id": 8,
+        "name": "Goten",
+        "image": "../img/goten.png"
+    },
+    {
+        "id": 9,
+        "name": "Krillin",
+        "image": "../img/Krillin.png"
+    },
+    {
+        "id": 10,
+        "name": "Piccolo",
+        "image": "../img/piccolo.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Master Roshi",
+        "image": "../img/roshi.png"
+    },
+    {
+        "id": 12,
+        "name": "Trunks",
+        "image": "../img/trunks.png"
+    }
+
+]
